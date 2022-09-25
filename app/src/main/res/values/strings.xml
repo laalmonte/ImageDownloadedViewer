@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImageDownloadedViewer</string>
+    <string name="project_name">Image Downloaded Viewer</string>
+    <string name="details">Details</string>
+    <string name="image_list">Image List</string>
+    <string name="track_name">Track Name</string>
+    <string name="no_data">No Data Found</string>
+    <string name="swipe_to_refresh">( Please swipe down to try again )</string>
+    <string name="title_label">Title:</string>
+    <string name="genre_label">Genre:</string>
+    <string name="price_label">Price:</string>
+    <string name="text">Text</string>
+    <string name="empty"> </string>
+</resources>
